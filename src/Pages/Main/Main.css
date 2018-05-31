@@ -1,0 +1,23 @@
+.Main {
+  text-align: center;
+  background-color: #222;
+  height: 100vh;
+}
+
+.Main-menu ul {
+  display: inline-block;
+  margin: 20px 10px 0px;
+  font-size: 18px;
+}
+
+.Main-table {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+
+
+
+
